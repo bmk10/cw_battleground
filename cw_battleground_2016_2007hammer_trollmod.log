@@ -1,0 +1,93 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\SourceMods\trollmod\materials
+Loading O:\cw_battleground\cw_battleground_2016_2007hammer_trollmod.vmf
+material "nature/blendmilground005_2" not found.
+Material not found!: NATURE/BLENDMILGROUND005_2
+material "nature/blendmilground004_2" not found.
+Material not found!: NATURE/BLENDMILGROUND004_2
+material "nature/blendmilground008_2" not found.
+Material not found!: NATURE/BLENDMILGROUND008_2
+material "nature/milground002" not found.
+Material not found!: NATURE/MILGROUND002
+material "de_tides/blendgrassstonepath" not found.
+Material not found!: DE_TIDES/BLENDGRASSSTONEPATH
+material "concrete/offflrasnow" not found.
+Material not found!: CONCRETE/OFFFLRASNOW
+material "ground/blendsnow_asphault" not found.
+Material not found!: GROUND/BLENDSNOW_ASPHAULT
+material "brick/brickwall027a" not found.
+Material not found!: BRICK/BRICKWALL027A
+material "de_cbble/woodbeam01" not found.
+Material not found!: DE_CBBLE/WOODBEAM01
+material "wood/infceilinga" not found.
+Material not found!: WOOD/INFCEILINGA
+material "wood/milbeams002" not found.
+Material not found!: WOOD/MILBEAMS002
+material "effects/stairsafrnt" not found.
+Material not found!: EFFECTS/STAIRSAFRNT
+material "de_train/train_metalceiling_01" not found.
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_01
+material "glass/prodwndwa" not found.
+Material not found!: GLASS/PRODWNDWA
+material "cs_italy/brickwall01" not found.
+Material not found!: CS_ITALY/BRICKWALL01
+material "de_tides/tides_dirt" not found.
+Material not found!: DE_TIDES/TIDES_DIRT
+material "concrete/prodflrd" not found.
+Material not found!: CONCRETE/PRODFLRD
+material "concrete/prodflre" not found.
+Material not found!: CONCRETE/PRODFLRE
+material "metal/metaldoor017a" not found.
+Material not found!: METAL/METALDOOR017A
+material "alex_spark/concretewall2floor" not found.
+Material not found!: ALEX_SPARK/CONCRETEWALL2FLOOR
+material "metal/drtrima" not found.
+Material not found!: METAL/DRTRIMA
+material "nature/milground012" not found.
+Material not found!: NATURE/MILGROUND012
+material "metal/prodventa" not found.
+Material not found!: METAL/PRODVENTA
+material "nmrih/concrete/rc_concretewall03" not found.
+Material not found!: NMRIH/CONCRETE/RC_CONCRETEWALL03
+material "nmrih/wood/sp_woodsiding01a" not found.
+Material not found!: NMRIH/WOOD/SP_WOODSIDING01A
+material "dev/dev_measuregeneric16" not found.
+Material not found!: DEV/DEV_MEASUREGENERIC16
+material "de_train/trainyard_metalwall04" not found.
+Material not found!: DE_TRAIN/TRAINYARD_METALWALL04
+material "wood/woodwall004c" not found.
+Material not found!: WOOD/WOODWALL004C
+material "concrete/prodwlle" not found.
+Material not found!: CONCRETE/PRODWLLE
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/blendrocksgrass006a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/short_red_grass_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/blendsandrock004c_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/blendgrassdirt001a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/blenddirtdirt001a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 7762 detail faces...done (2)
+Merging details...done (1)
+FixTjuncs...
+Too many t-junctions to fix up! (3352 prims, max 32768 :: 65547 indices, max 65536)
+
+
+
+6 threads
+reading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod.bsp
+Error opening o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod.bsp
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod.bsp
+Error opening o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod.bsp

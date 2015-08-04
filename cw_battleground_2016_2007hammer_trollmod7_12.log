@@ -1,0 +1,169 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\CrimeWars2013\materials
+Loading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.vmf
+material "nature/blendmilground005_2" not found.
+Material not found!: NATURE/BLENDMILGROUND005_2
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/blendmilground004_2" not found.
+Material not found!: NATURE/BLENDMILGROUND004_2
+material "nature/blendmilground008_2" not found.
+Material not found!: NATURE/BLENDMILGROUND008_2
+material "nature/milground002" not found.
+Material not found!: NATURE/MILGROUND002
+material "de_tides/blendgrassstonepath" not found.
+Material not found!: DE_TIDES/BLENDGRASSSTONEPATH
+material "concrete/offflrasnow" not found.
+Material not found!: CONCRETE/OFFFLRASNOW
+material "ground/blendsnow_asphault" not found.
+Material not found!: GROUND/BLENDSNOW_ASPHAULT
+material "wood/infceilinga" not found.
+Material not found!: WOOD/INFCEILINGA
+material "wood/milbeams002" not found.
+Material not found!: WOOD/MILBEAMS002
+material "effects/stairsafrnt" not found.
+Material not found!: EFFECTS/STAIRSAFRNT
+Error! Variable "$bumpmap" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+Error! Variable "$surfaceprop" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+Error! Variable "$bumpmap" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+Error! Variable "$surfaceprop" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+material "glass/prodwndwa" not found.
+Material not found!: GLASS/PRODWNDWA
+material "decals/milladder001" not found.
+Material not found!: DECALS/MILLADDER001
+material "cs_italy/brickwall01" not found.
+Material not found!: CS_ITALY/BRICKWALL01
+material "de_tides/tides_dirt" not found.
+Material not found!: DE_TIDES/TIDES_DIRT
+material "concrete/prodflrd" not found.
+Material not found!: CONCRETE/PRODFLRD
+material "concrete/prodflre" not found.
+Material not found!: CONCRETE/PRODFLRE
+material "metal/metaldoor017a" not found.
+Material not found!: METAL/METALDOOR017A
+material "metal/drtrima" not found.
+Material not found!: METAL/DRTRIMA
+material "nature/milground012" not found.
+Material not found!: NATURE/MILGROUND012
+material "metal/prodventa" not found.
+Material not found!: METAL/PRODVENTA
+material "de_train/trainyard_metalwall04" not found.
+Material not found!: DE_TRAIN/TRAINYARD_METALWALL04
+material "concrete/prodwlle" not found.
+Material not found!: CONCRETE/PRODWLLE
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendrocksgrass006a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/short_red_grass_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendsandrock004c_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-5703.88 6475.69 38.21) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 6320 detail faces...done (2)
+Merging details...done (0)
+FixTjuncs...
+Too many t-junctions to fix up! (3311 prims, max 32768 :: 65544 indices, max 65536)
+
+
+
+6 threads
+reading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
+Error opening o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file I:\SteamLibrary\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
+Error opening o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\SteamApps\sourcemods\CrimeWars2013\materials
+Loading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.vmf
+material "nature/blendmilground005_2" not found.
+Material not found!: NATURE/BLENDMILGROUND005_2
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "nature/blendmilground004_2" not found.
+Material not found!: NATURE/BLENDMILGROUND004_2
+material "nature/blendmilground008_2" not found.
+Material not found!: NATURE/BLENDMILGROUND008_2
+material "nature/milground002" not found.
+Material not found!: NATURE/MILGROUND002
+material "de_tides/blendgrassstonepath" not found.
+Material not found!: DE_TIDES/BLENDGRASSSTONEPATH
+material "concrete/offflrasnow" not found.
+Material not found!: CONCRETE/OFFFLRASNOW
+material "ground/blendsnow_asphault" not found.
+Material not found!: GROUND/BLENDSNOW_ASPHAULT
+material "wood/infceilinga" not found.
+Material not found!: WOOD/INFCEILINGA
+material "wood/milbeams002" not found.
+Material not found!: WOOD/MILBEAMS002
+material "effects/stairsafrnt" not found.
+Material not found!: EFFECTS/STAIRSAFRNT
+Error! Variable "$bumpmap" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+Error! Variable "$surfaceprop" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+Error! Variable "$bumpmap" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+Error! Variable "$surfaceprop" is multiply defined in material "custom/cwmetall-pattern_refmap3"!
+material "glass/prodwndwa" not found.
+Material not found!: GLASS/PRODWNDWA
+material "decals/milladder001" not found.
+Material not found!: DECALS/MILLADDER001
+material "cs_italy/brickwall01" not found.
+Material not found!: CS_ITALY/BRICKWALL01
+material "de_tides/tides_dirt" not found.
+Material not found!: DE_TIDES/TIDES_DIRT
+material "concrete/prodflrd" not found.
+Material not found!: CONCRETE/PRODFLRD
+material "concrete/prodflre" not found.
+Material not found!: CONCRETE/PRODFLRE
+material "metal/metaldoor017a" not found.
+Material not found!: METAL/METALDOOR017A
+material "metal/drtrima" not found.
+Material not found!: METAL/DRTRIMA
+material "nature/milground012" not found.
+Material not found!: NATURE/MILGROUND012
+material "metal/prodventa" not found.
+Material not found!: METAL/PRODVENTA
+material "de_train/trainyard_metalwall04" not found.
+Material not found!: DE_TRAIN/TRAINYARD_METALWALL04
+material "concrete/prodwlle" not found.
+Material not found!: CONCRETE/PRODWLLE
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\crimewars2013\gameinfo.txt
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendrocksgrass006a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendrockdirt006a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/short_red_grass_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/blendsandrock004c_wvt_patch
+Patching WVT material: maps/cw_battleground_2016_2007hammer_trollmod7_12/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-5703.88 6475.69 38.21) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 6320 detail faces...done (2)
+Merging details...done (0)
+FixTjuncs...
+Too many t-junctions to fix up! (3311 prims, max 32768 :: 65544 indices, max 65536)
+
+
+
+6 threads
+reading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
+Error opening o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file I:\SteamLibrary\steamapps\common\Source SDK Base 2013 Multiplayer\bin\lights.rad.
+Loading o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
+Error opening o:\cw_battleground\cw_battleground_2016_2007hammer_trollmod7_12.bsp
